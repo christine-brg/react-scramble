@@ -10,3 +10,5 @@ export const words = [
     "RUGBY",
     "REGISTER",
 ];
+
+export default words;
